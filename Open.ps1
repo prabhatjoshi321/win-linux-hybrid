@@ -41,5 +41,5 @@ $result = $form.ShowDialog()
 if ($result -eq [System.Windows.Forms.DialogResult]::OK)
 {
     $x = $textBox.Text
-    ssh -q joshi@192.168.131.158 'export DISPLAY=192.168.131.1:0.0 && 'nohup $x '> /dev/null 2>&1 &'
+    ssh -q joshi@10.10.10.3 'export DISPLAY=10.10.10.1:0.0 && 'nohup $x '> /dev/null 2>&1 &'
 }

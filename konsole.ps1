@@ -1,1 +1,1 @@
-ssh -q joshi@192.168.131.158 'export DISPLAY=192.168.131.1:0.0 && $HOME/shell_spawn.sh'
+ssh -q joshi@10.10.10.3 'export DISPLAY=10.10.10.1:0.0 && $HOME/shell_spawn.sh'
