@@ -56,4 +56,4 @@ directory. This gives seamless experience across OSes
 ### This project was inspired by Gynvael Coldwind. The major thing that this project lacks is a network proxy across VM network, Will work on it in upcoming months
 
 
-#### ps. I don't like WSL due to its limited hardware access and proprietary kernel. And for the linux fanboys, NVIDIA sucks my man. And this setup makes me feel comfortable. Its a **be all end all** solution to my usecase
+#### ps. I don't like WSL due to its limited hardware access and proprietary kernel. And for the linux fanboys, NVIDIA sucks. This setup makes me feel comfortable. Its a **be all end all** solution to my usecase
