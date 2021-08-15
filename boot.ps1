@@ -73,4 +73,6 @@ public class Params
     $ret = [Params]::SystemParametersInfo($SPI_SETDESKWALLPAPER, 0, $Image, $fWinIni)
 }
  
-Set-WallPaper -Image "C:\Users\WDAGUtilityAccount\Desktop\Sandbox\wall.jpg" -Style Fit
+curl.exe --output wall.jpg --url https://github.com/prabhatjoshi321/win-linux-hybrid/raw/main/wall.jpg
+
+Set-WallPaper -Image "wall.jpg" -Style Fit
