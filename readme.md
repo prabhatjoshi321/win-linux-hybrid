@@ -1,6 +1,6 @@
 # Windows-Linux Poweruser Scripts
 
-**This is how I combined my Linux and Windows work environment. I am a Linux/Windows power user and for me, working with both OSes simultaneously is a must. With the help of powershell/bash scripts, Vmware Workstation, Vcsxrv, Knowledge of Networking, Virtualization and a Little bit of time. This was the solution I came up with.**
+**This is how I combined my Linux and Windows work environment. I am a Linux/Windows power user and With the help of powershell/bash scripts and a Little bit of time and patience. This was the solution I came up with.**
 
 ## Tools used
 
